@@ -1,0 +1,80 @@
+*{
+    font-family:'poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+/*header for both*/
+header{
+    background-color: black;
+    height: 80px;
+    
+}
+
+/*index.html*/
+section{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    height: auto;
+    width: 80%;
+    margin-top: 50px;
+}
+
+#reg{
+    padding: 2em;
+    width: 50%;
+}
+
+#reg h1{
+    font-size: 30px;
+    color: white;
+}
+
+#free-trial{
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    margin: 10px;
+    
+/*free trial part*/
+.second-main{
+    margin-top: 50px;
+}
+/*form part*/
+.form{
+    background-color: white;
+    width: 60%;
+    border-radius: 5px;
+}
+
+.form input{
+    border-radius: 5px;
+    width: 100%;
+    padding: 4px;
+    margin: 3px;
+}
+
+.form span{
+    color: red;
+}
+
+#free{
+    background-color: green;
+    color: white;
+    padding-top: 10px;
+    padding-right: 32%;
+    padding-left: 32%;
+    padding-bottom: 10px;
+    border-radius: 7px;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/*grid.html*/
